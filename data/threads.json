@@ -1,0 +1,86 @@
+[
+  {
+    "id": "thread-001",
+    "mailbox": "board",
+    "subject": "Board follow-up: launch timeline",
+    "snippet": "Can we confirm the public announcement sequence for Q2?",
+    "updatedAt": "2025-12-22T21:22:07.252Z",
+    "participants": [
+      "alexa.morgan@client.com",
+      "board@dream-x.app"
+    ],
+    "status": "open",
+    "assignedTo": "Ethan Park",
+    "messages": [
+      {
+        "id": "msg-001",
+        "threadId": "thread-001",
+        "from": "alexa.morgan@client.com",
+        "to": [
+          "board@dream-x.app"
+        ],
+        "cc": [],
+        "subject": "Board follow-up: launch timeline",
+        "date": "2025-12-22T21:22:07.252Z",
+        "snippet": "Can we confirm the public announcement sequence for Q2?",
+        "bodyText": "We need final approval for the launch timeline. Can you confirm if the board prefers a staged release?"
+      }
+    ]
+  },
+  {
+    "id": "thread-002",
+    "mailbox": "general",
+    "subject": "Partnership inquiry",
+    "snippet": "We want to list a new marketplace partner and need onboarding details.",
+    "updatedAt": "2025-12-22T20:48:07.252Z",
+    "participants": [
+      "team@newpartner.io",
+      "general@playerxchange.org"
+    ],
+    "status": "pending",
+    "assignedTo": "Nova Hughes",
+    "messages": [
+      {
+        "id": "msg-010",
+        "threadId": "thread-002",
+        "from": "team@newpartner.io",
+        "to": [
+          "general@playerxchange.org"
+        ],
+        "cc": [],
+        "subject": "Partnership inquiry",
+        "date": "2025-12-22T20:48:07.252Z",
+        "snippet": "We want to list a new marketplace partner and need onboarding details.",
+        "bodyText": "We are interested in integrating our inventory. Can you share the onboarding requirements and API docs?"
+      }
+    ]
+  },
+  {
+    "id": "thread-003",
+    "mailbox": "general",
+    "subject": "Refund request - order #8712",
+    "snippet": "Customer is requesting a refund due to an accidental purchase.",
+    "updatedAt": "2025-12-22T20:05:07.252Z",
+    "participants": [
+      "william@example.com",
+      "general@playerxchange.org"
+    ],
+    "status": "open",
+    "assignedTo": "Kai Moreno",
+    "messages": [
+      {
+        "id": "msg-020",
+        "threadId": "thread-003",
+        "from": "william@example.com",
+        "to": [
+          "general@playerxchange.org"
+        ],
+        "cc": [],
+        "subject": "Refund request - order #8712",
+        "date": "2025-12-22T20:05:07.252Z",
+        "snippet": "Customer is requesting a refund due to an accidental purchase.",
+        "bodyText": "I made a purchase by mistake and would like a refund. Can you help me reverse order #8712?"
+      }
+    ]
+  }
+]
