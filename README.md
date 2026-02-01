@@ -1,3 +1,4 @@
+<meta name="robots" content="noindex, nofollow">
 # Dream-X / PlayerXchange Mail Orchestrator
 
 A custom Gmail orchestration app that keeps customer-facing email unified while routing conversations internally. This app treats Dream-X and PlayerXchange as separate tenants with isolated data.
